@@ -27,12 +27,14 @@ The original Arduino sketch is included as a reference in a separate folder and 
   - Default password: `12345678`
 - Built-in HTTP web UI
   - Status page (`/`): mode, Wi-Fi info, time, IP address
-  - Config page (`/config`): Wi-Fi SSID, password, time zone (dropdown with common TZ presets)
+  - Config page (`/config`): Wi-Fi SSID, password, time zone, LED Brightness, Hour format, Offline time
 - Time zone support via POSIX TZ strings, stored in NVS
-- Date display like the original firmware:
+- Date display:
   - Normally shows HH:MM
   - Between 50 and 54 seconds, shows DD.MM
 
+![landing](Pictures/Landing_page.png)
+![settings](Pictures/Settings_page.png)
 ---
 
 ## Hardware
