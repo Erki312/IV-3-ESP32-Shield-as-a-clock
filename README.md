@@ -43,7 +43,7 @@ The original Arduino sketch is included as a reference in a separate folder and 
 - ESP32-S3 dev board in Arduino/UNO form factor
 
 **Important: Analog outputs A0 to A3 need to be able to be configured as outputs.**
-I used the following from AliExpress [ESP32-S3-N16R8](https://de.aliexpress.com/item/1005001953904745.html?spm=a2g0o.cart.0.0.72f84ae4sPUZhW&mp=1&pdp_npi=5%40dis%21EUR%21EUR%206.25%21EUR%204.69%21%21EUR%204.69%21%21%21%402103835c17643342033767090ecf60%2112000048046652793%21ct%21DE%21-1%21%211%210&gatewayAdapt=glo2deu).
+- I used the following board from AliExpress [ESP32-S3-N16R8](https://de.aliexpress.com/item/1005001953904745.html?spm=a2g0o.cart.0.0.72f84ae4sPUZhW&mp=1&pdp_npi=5%40dis%21EUR%21EUR%206.25%21EUR%204.69%21%21EUR%204.69%21%21%21%402103835c17643342033767090ecf60%2112000048046652793%21ct%21DE%21-1%21%211%210&gatewayAdapt=glo2deu).
 
 
 ### Pin mapping (ESP32-S3)
